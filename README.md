@@ -14,14 +14,14 @@ Descripción general
 -------------------
 Réplica de la siguiente imagen poniendo en práctica los conocimientos de *positioning* (posicionamiento de cajas):
 
-![cajas](assets/images/cajas.jpg)
+![cajas](assets/images/cajas.JPG)
 
 Contenido
 ---------
 Este proyecto se encuentra constituido por las siguientes carpetas:
 
 ##### Assets
-Carpeta que contiene otra carpeta llamada "images", en la que se encuentra una imagen en formato JPG para la muestra de la posición de dos cajas con otras cajas de colores dentro.
+Carpeta que contiene otra carpeta llamada "images", en la que se encuentra una imagen en formato JPG para la muestra de la posición de dos cajas con otras cajas de colores en su interior.
 
 ##### CSS
 Carpeta que contiene la hoja de estilos para darle formato al HTML.
